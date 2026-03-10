@@ -19,8 +19,7 @@ Sou formado em **Sistemas para Internet (SPI)** e em **Logística**, e atualment
 * **Banco de Dados:** MySQL, PostgreSQL, SQLite e MongoDB.
 
 ### 📊 Estatísticas:
-![Estatísticas do Hugo](https://github-readme-stats.vercel.app/api?username=HugoRibeiro-estudante&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
+![Estatísticas do Hugo](https://github-readme-stats.vercel.app/api?username=HugoRibeiro-estudante&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ### 📫 Onde me encontrar:
