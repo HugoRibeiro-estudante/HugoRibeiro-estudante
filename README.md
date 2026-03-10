@@ -26,4 +26,4 @@ Sou formado em **Sistemas para Internet (SPI)** e em **Logística**, e atualment
 ### 📫 Onde me encontrar:
 * 📍 Localização: **Uberlândia - MG**
 * 🌐 Projetos Acadêmicos: [Repositórios](https://github.com/HugoRibeiro-estudante?tab=repositories)
-* ♟️ Hobby: Xadrez, caminhadas e filosofia.
+* ♟️ Hobby: caminhadas e filosofia.
